@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **AI/ML, Supabase, Fullstack development w/ MERN**
-
 - 💬 Ask me about **Graph-RAG, Fullstack development**
 
 - 📫 How to reach me **dillonmquigley@gmail.com**
 
-- 📄 Here's my resume: **Coming soon ;)**
+- 📄 Here's my resume: ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
