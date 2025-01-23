@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dillon Quigley</h1>
-<h3 align="center">A passionate student studying CS @ UT Austin</h3>
+<h3 align="center">A passionate General Studies student @ UT Austin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dquigles&label=Profile%20views&color=0e75b6&style=flat" alt="dquigles" /> </p>
 
