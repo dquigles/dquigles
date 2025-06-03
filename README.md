@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Dillon Quigley</h1>
+<h1 align="center">Hey, I'm Dillon Quigley</h1>
 <h3 align="center">A passionate General Studies student @ UT Austin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dquigles&label=Profile%20views&color=0e75b6&style=flat" alt="dquigles" /> </p>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my personal website ;)
 
-- 💬 Ask me about **Graph-RAG, Fullstack development**
+- 💬 Ask me about **Fullstack development, AI Agents**
 
-- 📫 How to reach me **dillonmquigley@gmail.com**
+- 📫 How to reach me **me@dillonquigley.com**
 
-- 📄 Here's my resume: ****
+- 📄 Here's my resume:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
