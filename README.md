@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm <span href="https://www.dillonquigley.com" target="_blank" rel="noopener noreferrer">Dillon Quigley</span></h1>
+<h1 align="center">
+  Hey, I'm <a href="https://www.dillonquigley.com" target="_blank" rel="noopener noreferrer">Dillon Quigley</a>
+</h1>
 <h3 align="center">CS student @ UT Austin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dquigles&label=Profile%20views&color=0e75b6&style=flat" alt="dquigles" /> </p>
@@ -9,7 +11,7 @@
 
 - 📫 How to reach me **dillonmquigley@gmail.com**
 
-- 📄 Here's my resume:
+- 📄 Here's my resume: <a href="https://www.dillonquigley.com/assets/DillonQuigleyResume.pdf" target="_blank" rel="noopener noreferrer">View Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
