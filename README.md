@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dquigles&label=Profile%20views&color=0e75b6&style=flat" alt="dquigles" /> </p>
 
-- 🔭 I’m currently working on my personal website ;)
+- 🔭 I’m currently working on some cool stuff
 
 - 💬 Ask me about **Fullstack development, AI Agents**
 
-- 📫 How to reach me **me@dillonquigley.com**
+- 📫 How to reach me **dillonmquigley@gmail.com**
 
 - 📄 Here's my resume:
 
