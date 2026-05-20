@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Fullstack development, AI Agents**
 
-- 📫 How to reach me **dillonmquigley@gmail.com**
+- 📫 How to reach me **github@dillonquigley.com**
 
 - 📄 Here's my resume: <a href="https://www.dillonquigley.com/assets/DillonQuigleyResume.pdf" target="_blank" rel="noopener noreferrer">View Resume</a>
 
